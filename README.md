@@ -159,3 +159,4 @@ adapterSettings:
   + [群事件](docs/api/EventType.md#群事件)
   + [申请事件](docs/api/EventType.md#申请事件)
 + **[消息类型参考](docs/api/MessageType.md)**
++ 1
